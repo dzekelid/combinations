@@ -7,11 +7,23 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Combinations
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/combinations/master/_listings/gig--crowd/apis.md
 specificationVersion: "0.14"
 apis:
+- name: GIG & Crowd - Post Managers Combine Old New
+  x-api-slug: apiv1managerscombineoldidnewid-post
+  description: Post managers combine old new.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png
+  humanURL: https://gigandcrowd.com
+  baseURL: https://gigandcrowd.com//
+  tags: Events, Concerts, Entertainment, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/combinations/master/_listings/gig--crowd/apiv1managerscombineoldidnewid-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/combinations/master/_listings/gig--crowd/apiv1managerscombineoldidnewid-post-openapi.md
 - name: GIG & Crowd - Post Managers Combine Old New
   x-api-slug: apiv1managerscombineoldidnewid-post
   description: Post managers combine old new.
